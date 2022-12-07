@@ -36,7 +36,7 @@ dit vult elke 5 min de csv files aan en elk uur maakt hij nieuwe raporten die hi
 ### Resultaten
 ## grafiek van Savaanstraat
 Numquam magnam quiquia consectetur ipsum aliquam quiquia consectetur. Aliquam quaerat consectetur aliquam labore aliquam. Porro amet dolor non velit magnam ut amet. Labore amet porro neque porro. Numquam dolor ut labore modi. Dolor tempora quiquia eius ipsum.
-![image](https://github.com/BrechtDeSchryver/iataak/blob/main/data-workflow/csvimage/Savaanstraat.csv.png)
+![image](./img/Savaanstraat.csv.png)
 ## grafiek van gemiddelde
 Aliquam etincidunt amet dolore etincidunt. Dolorem ipsum labore sed aliquam sit. Est etincidunt aliquam quaerat numquam. Numquam aliquam velit magnam. Non non numquam labore ut dolore dolorem neque. Quaerat porro velit quaerat quaerat tempora ut. Ut dolorem amet sed. Adipisci adipisci magnam est tempora. Voluptatem ipsum sit sit est non amet dolore. Ut eius tempora modi labore velit eius.
 ![image](https://github.com/BrechtDeSchryver/iataak/blob/main/data-workflow/csvimage/gemiddelde.csv.png)
